@@ -28,6 +28,7 @@ AP Hogeschool Wireless Technologies Project
     - Er achter gekomen dat de auto dit enkel zend als er grote verschillen zijn in druk of als de auto aan het rijden is
 - python script gebruikt om de MQTT relay te monitoren
 #### Yenthe
+- mee opgezocht hoe HackRF te gebruiken met rtl 433
 #### Klaas
 
 ### 2 - 8 Dec
