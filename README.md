@@ -4,7 +4,7 @@ AP Hogeschool Wireless Technologies Project
 ## Teamleden
 - Mauro Sterckx
 - Gerben van de Velde
-- Yenthe ...
+- Yenthe Van den Eynden
 - Klaas ...
 
 ## Timetable
