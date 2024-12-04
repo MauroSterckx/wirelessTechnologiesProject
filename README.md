@@ -21,6 +21,12 @@ AP Hogeschool Wireless Technologies Project
   - Vermoeden dat er iets niet correct verloopt bij gebruikt met rtl433, kan deze wel iets waarnemen?
     - Volgende keer proberen met SDR++ te luisteren en dan RTL433 via TCP naar SDR++ te verbinden
 #### Gerben
+- SDR gebruikt 
+- AIRSPY SDR geïnstalleerd
+- RTL 433 geïnstalleerd
+  - De SDR laten scannen op 433 maar kreeg geen signalen
+    - Er achter gekomen dat de auto dit enkel zend als er grote verschillen zijn in druk of als de auto aan het rijden is
+- python script gebruikt om de MQTT relay te monitoren
 #### Yenthe
 #### Klaas
 
