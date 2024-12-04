@@ -31,3 +31,10 @@ AP Hogeschool Wireless Technologies Project
 #### Klaas
 
 ### 2 - 8 Dec
+
+#### voorlopige taakverdeling:
+#### Iedereen: 
+  -Eerste werkende scans binnenhalen en kunnen decoderen via rtl 433
+    -testen met eigen auto
+
+  -Auto's proberen fingerprinten
