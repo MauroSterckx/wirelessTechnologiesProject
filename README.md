@@ -32,6 +32,12 @@ AP Hogeschool Wireless Technologies Project
 #### Klaas
 
 ### 2 - 8 Dec
+#### Mauro
+- SDR++ server gebruikt en rtl433 laten connecten naar de SDR++ server, dit werkte. Nog steeds geen data waargenomen
+- Data wordt wel waargenomen, maar heb ontdekt dat er problemen zijn met het decoden. Dankzij -vvv flag te gebruiken zie ik decoding errors
+- Example config file van 433 github repo geprobeert te gebruiken, geeft errors!
+
+
 
 #### voorlopige taakverdeling:
 #### Iedereen: 
