@@ -38,7 +38,13 @@ AP Hogeschool Wireless Technologies Project
 - Data wordt wel waargenomen, maar heb ontdekt dat er problemen zijn met het decoden. Dankzij -vvv flag te gebruiken zie ik decoding errors
 - Example config file van 433 github repo geprobeert te gebruiken, geeft errors!
 
+### Mauro & Gerben
 
+ - Wardriven met auto
+ - TPMS gemeten via RTL 433, van eigen wagen, andere wagens en weerstations
+ - GPS server opgezet via telefoon
+ - GPS locaties opvangen en python script dat het noteert in long en lat
+ - encrypted data opgeslagen voor terug uit te zenden, decrypted om mogelijk het in beeld te brengen op kaart 
 
 #### voorlopige taakverdeling:
 #### Iedereen: 
