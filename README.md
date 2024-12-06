@@ -5,7 +5,7 @@ AP Hogeschool Wireless Technologies Project
 - Mauro Sterckx
 - Gerben van de Velde
 - Yenthe Van den Eynden
-- Klaas ...
+- Klaas Mouws
 
 ## Timetable
 ### 24Nov - 1 Dec
@@ -30,7 +30,8 @@ AP Hogeschool Wireless Technologies Project
 #### Yenthe
 - mee opgezocht hoe HackRF te gebruiken met rtl 433
 #### Klaas
-
+- DragonOS geinstalleerd
+- testen met AIRSPY SDR + RTL-SDR auto signalen ontvangen
 ### 2 - 8 Dec
 #### Mauro
 - SDR++ server gebruikt en rtl433 laten connecten naar de SDR++ server, dit werkte. Nog steeds geen data waargenomen
