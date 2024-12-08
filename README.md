@@ -52,3 +52,15 @@ AP Hogeschool Wireless Technologies Project
     -testen met eigen auto
 
   -Auto's proberen fingerprinten
+
+### 9 - 15 Dec
+
+#### voorlopige taakverdeling
+
+#### Yenthe & Klaas 
+  - python script maken dat GPS locatie en de RTL 433 scan samen uitvoert, zodat we auto's kunnen koppelen aan locatie
+
+#### Mauro & Gerben
+  - API maken voor de locatie en RTL 433 van auto op te slaan
+  - encrypted data proberen uitzenden via de HackOneRF om auto te simuleren
+
