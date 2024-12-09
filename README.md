@@ -46,6 +46,11 @@ AP Hogeschool Wireless Technologies Project
  - GPS locaties opvangen en python script dat het noteert in long en lat
  - encrypted data opgeslagen voor terug uit te zenden, decrypted om mogelijk het in beeld te brengen op kaart 
 
+### Yenthe
+- HackRFone getest
+-   data kunnen versturen
+- tests met DragonOS
+- 
 #### voorlopige taakverdeling:
 #### Iedereen: 
   -Eerste werkende scans binnenhalen en kunnen decoderen via rtl 433
