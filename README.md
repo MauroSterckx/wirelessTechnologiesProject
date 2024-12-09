@@ -48,9 +48,8 @@ AP Hogeschool Wireless Technologies Project
 
 ### Yenthe
 - HackRFone getest
--   data kunnen versturen
+  - data kunnen versturen
 - tests met DragonOS
-- 
 #### voorlopige taakverdeling:
 #### Iedereen: 
   -Eerste werkende scans binnenhalen en kunnen decoderen via rtl 433
