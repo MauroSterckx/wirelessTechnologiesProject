@@ -55,6 +55,7 @@ AP Hogeschool Wireless Technologies Project
 - SDR testen
 - Opzoeken NMEA gps module
 - Testen NMEA gps module python
+- Signalen draadloos stopcontact ontvangen en analyseren
 
 #### voorlopige taakverdeling:
 #### Iedereen: 
