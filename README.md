@@ -30,7 +30,7 @@ AP Hogeschool Wireless Technologies Project
 #### Yenthe
 - mee opgezocht hoe HackRF te gebruiken met rtl 433
 #### Klaas
-- DragonOS geinstalleerd
+- DragonOS testen
 - testen met AIRSPY SDR + RTL-SDR auto signalen ontvangen
 ### 2 - 8 Dec
 #### Mauro
@@ -50,6 +50,12 @@ AP Hogeschool Wireless Technologies Project
 - HackRFone getest
   - data kunnen versturen
 - tests met DragonOS
+
+### Klaas
+- SDR testen
+- Opzoeken NMEA gps module
+- Testen NMEA gps module python
+
 #### voorlopige taakverdeling:
 #### Iedereen: 
   -Eerste werkende scans binnenhalen en kunnen decoderen via rtl 433
