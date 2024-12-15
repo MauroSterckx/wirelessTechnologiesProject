@@ -111,3 +111,24 @@ AP Hogeschool Wireless Technologies Project
 
 - API maken voor de locatie en RTL 433 van auto op te slaan
 - encrypted data proberen uitzenden via de HackOneRF om auto te simuleren
+
+
+### 16 - 22 Dec
+
+#### Mauro
+
+- .bin file proberen uitzenden via HackRF One
+- zelf .bin file maken
+- auto fingerprinten
+
+#### Gerben
+
+- auto fingerprinten
+- opnieuw gaan wardriven voor meer informatie en .bin files
+
+
+#### voorlopige taakverdeling
+
+iedereen:
+- .bin file kunnen uitzenden waardoor auto gesimuleerd wordt
+- finale python script schrijven
