@@ -98,6 +98,9 @@ AP Hogeschool Wireless Technologies Project
   - CU8 & Bin generators
   - RTL op SDR install
 
+### Klaas
+- Python script dat GPS locatie ophaald van een Glonas GPS module
+- Telkens wanneer auto wordt gefingerprint treed dit script in werking zodat de gps locatie kan worden bevestigd
 #### voorlopige taakverdeling
 
 #### Yenthe & Klaas
