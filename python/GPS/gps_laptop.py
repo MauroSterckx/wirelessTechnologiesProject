@@ -1,6 +1,6 @@
 import socket as soc
 s = soc.socket()
-host = '172.20.10.5'
+host = '10.150.198.19'
 port = 12345
 s.setsockopt(soc.SOL_SOCKET, soc.SO_REUSEADDR, 1)
 s.bind((host,port))
