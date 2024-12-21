@@ -126,6 +126,10 @@ AP Hogeschool Wireless Technologies Project
 - auto fingerprinten
 - opnieuw gaan wardriven voor meer informatie en .bin files
 
+### Klaas
+
+- Script geschreven dat telkens wanneer er een auto gefingerprint wordt, de gps glonass module in werking treedt en de exacte gps locatie ophaalt
+- Getest
 
 #### voorlopige taakverdeling
 
