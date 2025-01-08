@@ -1,0 +1,228 @@
+[
+    {
+      "name": "5758325",
+      "lat": 51.466291,
+      "lng": 4.470247,
+      "tpms_data": {
+        "id": "5758325",
+        "model": "Schrader",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 295.0,
+        "Temperature": 14,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "ed1608",
+      "lat": 51.466291,
+      "lng": 4.470247,
+      "tpms_data": {
+        "id": "ed1608",
+        "model": "Renault",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 232.5,
+        "Temperature": 18,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "c1018e5a",
+      "lat": 51.466291,
+      "lng": 4.470247,
+      "tpms_data": {
+        "id": "c1018e5a",
+        "model": "Hyundai-VDO",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 268,
+        "Temperature": 15,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "8318b6",
+      "lat": 51.466291,
+      "lng": 4.470247,
+      "tpms_data": {
+        "id": "8318b6",
+        "model": "Renault",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 255.8,
+        "Temperature": 9,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "ACCC9D",
+      "lat": 51.466617,
+      "lng": 4.469925,
+      "tpms_data": {
+        "id": "ACCC9D",
+        "model": "Schrader-EG53MA4",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 200.0,
+        "Temperature": 72.0,
+        "status": "Active",
+        "Integrity": "CHECKSUM"
+      }
+    },
+    {
+      "name": "34",
+      "lat": 51.467307,
+      "lng": 4.469002,
+      "tpms_data": {
+        "id": "34",
+        "model": "inFactory-TH",
+        "type": "Sensor",
+        "flags": "None",
+        "Pressure": 0,
+        "Temperature": 49.10,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "e0a28a",
+      "lat": 51.467307,
+      "lng": 4.469002,
+      "tpms_data": {
+        "id": "e0a28a",
+        "model": "Renault",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 220.5,
+        "Temperature": 8,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "f82e30",
+      "lat": 51.467307,
+      "lng": 4.469002,
+      "tpms_data": {
+        "id": "f82e30",
+        "model": "Renault",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 283.5,
+        "Temperature": 19,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "66f74ce1",
+      "lat": 51.467448,
+      "lng": 4.468813,
+      "tpms_data": {
+        "id": "66f74ce1",
+        "model": "Ford",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 35.50,
+        "Temperature": 19.0,
+        "status": "Active",
+        "Integrity": "CHECKSUM"
+      }
+    },
+    {
+      "name": "66f7e51d",
+      "lat": 51.467448,
+      "lng": 4.468813,
+      "tpms_data": {
+        "id": "66f7e51d",
+        "model": "Ford",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 33.75,
+        "Temperature": 14.0,
+        "status": "Active",
+        "Integrity": "CHECKSUM"
+      }
+    },
+    {
+      "name": "6d6e9a0f",
+      "lat": 51.467715,
+      "lng": 4.468595,
+      "tpms_data": {
+        "id": "6d6e9a0f",
+        "model": "Hyundai-VDO",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 285.0,
+        "Temperature": 15.0,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "6d6e99d6",
+      "lat": 51.467715,
+      "lng": 4.468595,
+      "tpms_data": {
+        "id": "6d6e99d6",
+        "model": "Hyundai-VDO",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 279.0,
+        "Temperature": 10.0,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "9C24CD",
+      "lat": 51.467387,
+      "lng": 4.467624,
+      "tpms_data": {
+        "id": "9C24CD",
+        "model": "Schrader-EG53MA4",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 230.0,
+        "Temperature": 75.0,
+        "status": "Active",
+        "Integrity": "CHECKSUM"
+      }
+    },
+    {
+      "name": "7be3af",
+      "lat": 51.46672,
+      "lng": 4.465715,
+      "tpms_data": {
+        "id": "7be3af",
+        "model": "Renault",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 208.5,
+        "Temperature": 16.0,
+        "status": "Active",
+        "Integrity": "CRC"
+      }
+    },
+    {
+      "name": "46108319",
+      "lat": 0,
+      "lng": 0,
+      "tpms_data": {
+        "id": "46108319",
+        "model": "Ford",
+        "type": "TPMS",
+        "flags": "None",
+        "Pressure": 31.25,
+        "Temperature": 0,
+        "status": "Active",
+        "Integrity": "CHECKSUM"
+      }
+    }
+  ]
+  
