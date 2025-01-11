@@ -9,6 +9,10 @@ AP Hogeschool Wireless Technologies Project
 - Yenthe Van den Eynden
 - Klaas Mouws
 
+## Website github repo
+Voor CI/CD pipeline mogelijkheden werd de website die we gemaakt hebben voor dit project in een eigen github repository verdeeld:
+[Github repo link](https://github.com/MauroSterckx/WirelessWebsite.git)
+
 ## Timetable
 
 ### 24Nov - 1 Dec
