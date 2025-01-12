@@ -140,3 +140,17 @@ Voor CI/CD pipeline mogelijkheden werd de website die we gemaakt hebben voor dit
 iedereen:
 - .bin file kunnen uitzenden waardoor auto gesimuleerd wordt
 - finale python script schrijven
+
+### 22 Dec - 12 jan
+
+### Klaas
+  - heatmap, data analyseren
+
+### Mauro
+  - website verbeteren, meerdere filters toevoegen, data beheren, grafieken opstellen, powerpoint
+
+### Yenthe
+  - wardriven
+
+### Gerben
+  - Wardriven, heatmap, prototype data uitzenden
