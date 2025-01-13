@@ -1,0 +1,349 @@
+TPMS Model: BOSCH F 026 C00 466
+Compatible Automodellen:
+- Volkswagen Golf (2012-2020) (Locatie: 51.10996, 4.346596)
+- Audi A3 (2012-2018) (Locatie: 51.10996, 4.346596)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.109791, 4.346188)
+- Ford Focus (2014-2020) (Locatie: 51.109791, 4.346188)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.110074, 4.345201)
+- Kia Sorento (2013-2018) (Locatie: 51.110074, 4.345201)
+
+TPMS Model: Hamaton HTS-A69BM-S016
+Compatible Automodellen:
+- Mercedes-Benz C-Class (2014-2020) (Locatie: 51.11046, 4.346346)
+- Mercedes-Benz E-Class (2014-2020) (Locatie: 51.11046, 4.346346)
+
+TPMS Model: SCHRADER 1210
+Compatible Automodellen:
+- Toyota Camry (2012-2017) (Locatie: 51.110871, 4.347452)
+- Toyota Corolla (2012-2017) (Locatie: 51.110871, 4.347452)
+
+TPMS Model: PIERBURG 7.14060.13.0
+Compatible Automodellen:
+- Volkswagen Passat (2012-2018) (Locatie: 51.110865, 4.348564)
+- Audi A4 (2012-2018) (Locatie: 51.110865, 4.348564)
+
+TPMS Model: SCHRADER 2200B-GO1
+Compatible Automodellen:
+- Honda Accord (2013-2017) (Locatie: 51.110761, 4.352495)
+- Honda Civic (2013-2017) (Locatie: 51.110761, 4.352495)
+
+TPMS Model: SCHRADER 3049
+Compatible Automodellen:
+- Nissan Altima (2012-2018) (Locatie: 51.110581, 4.354253)
+- Nissan Maxima (2012-2018) (Locatie: 51.110581, 4.354253)
+
+TPMS Model: HUF 73904101
+Compatible Automodellen:
+- BMW X5 (2013-2018) (Locatie: 51.110399, 4.355456)
+- BMW X3 (2013-2018) (Locatie: 51.110399, 4.355456)
+
+TPMS Model: SKF VKRA 110039
+Compatible Automodellen:
+- Volvo XC90 (2015-2020) (Locatie: 51.110126, 4.357217)
+- Volvo XC60 (2015-2020) (Locatie: 51.110126, 4.357217)
+
+TPMS Model: RIDEX 2232W0102
+Compatible Automodellen:
+- BMW 3 Series (2012-2019) (Locatie: 51.109822, 4.358355)
+- BMW 5 Series (2012-2019) (Locatie: 51.109822, 4.358355)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.110827, 4.370924)
+- Kia Sorento (2013-2018) (Locatie: 51.110827, 4.370924)
+
+TPMS Model: Hamaton HTS-A69BM-S016
+Compatible Automodellen:
+- Mercedes-Benz C-Class (2014-2020) (Locatie: 51.111944, 4.371309)
+- Mercedes-Benz E-Class (2014-2020) (Locatie: 51.111944, 4.371309)
+
+TPMS Model: SCHRADER 1210
+Compatible Automodellen:
+- Toyota Camry (2012-2017) (Locatie: 51.114323, 4.371958)
+- Toyota Corolla (2012-2017) (Locatie: 51.114323, 4.371958)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.116235, 4.372461)
+- Kia Sorento (2013-2018) (Locatie: 51.116235, 4.372461)
+
+TPMS Model: RIDEX 2232W0102
+Compatible Automodellen:
+- BMW 3 Series (2012-2019) (Locatie: 51.118226, 4.373067)
+- BMW 5 Series (2012-2019) (Locatie: 51.118226, 4.373067)
+
+TPMS Model: BOSCH F 026 C00 466
+Compatible Automodellen:
+- Volkswagen Golf (2012-2020) (Locatie: 51.120831, 4.372792)
+- Audi A3 (2012-2018) (Locatie: 51.120831, 4.372792)
+
+TPMS Model: SCHRADER 2200B-GO1
+Compatible Automodellen:
+- Honda Accord (2013-2017) (Locatie: 51.121181, 4.37189)
+- Honda Civic (2013-2017) (Locatie: 51.121181, 4.37189)
+
+TPMS Model: SCHRADER 2200B-GO1
+Compatible Automodellen:
+- Honda Accord (2013-2017) (Locatie: 51.110822, 4.354936)
+- Honda Civic (2013-2017) (Locatie: 51.110822, 4.354936)
+
+TPMS Model: SCHRADER 3049
+Compatible Automodellen:
+- Nissan Altima (2012-2018) (Locatie: 51.111785, 4.354571)
+- Nissan Maxima (2012-2018) (Locatie: 51.111785, 4.354571)
+
+TPMS Model: HUF 73904101
+Compatible Automodellen:
+- BMW X5 (2013-2018) (Locatie: 51.113171, 4.353867)
+- BMW X3 (2013-2018) (Locatie: 51.113171, 4.353867)
+
+TPMS Model: SKF VKRA 110039
+Compatible Automodellen:
+- Volvo XC90 (2015-2020) (Locatie: 51.114529, 4.354185)
+- Volvo XC60 (2015-2020) (Locatie: 51.114529, 4.354185)
+
+TPMS Model: RIDEX 2232W0102
+Compatible Automodellen:
+- BMW 3 Series (2012-2019) (Locatie: 51.11679, 4.3526)
+- BMW 5 Series (2012-2019) (Locatie: 51.11679, 4.3526)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.119114, 4.347941)
+- Kia Sorento (2013-2018) (Locatie: 51.119114, 4.347941)
+
+TPMS Model: Hamaton HTS-A69BM-S016
+Compatible Automodellen:
+- Mercedes-Benz C-Class (2014-2020) (Locatie: 51.122034, 4.345313)
+- Mercedes-Benz E-Class (2014-2020) (Locatie: 51.122034, 4.345313)
+
+TPMS Model: SCHRADER 1210
+Compatible Automodellen:
+- Toyota Camry (2012-2017) (Locatie: 51.123209, 4.344389)
+- Toyota Corolla (2012-2017) (Locatie: 51.123209, 4.344389)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.123923, 4.343745)
+- Kia Sorento (2013-2018) (Locatie: 51.123923, 4.343745)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.12462, 4.345375)
+- Kia Sorento (2013-2018) (Locatie: 51.12462, 4.345375)
+
+TPMS Model: HUF 73904101
+Compatible Automodellen:
+- BMW X5 (2013-2018) (Locatie: 51.125197, 4.353423)
+- BMW X3 (2013-2018) (Locatie: 51.125197, 4.353423)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.125541, 4.355606)
+- Kia Sorento (2013-2018) (Locatie: 51.125541, 4.355606)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.122426, 4.362603)
+- Kia Sorento (2013-2018) (Locatie: 51.122426, 4.362603)
+
+TPMS Model: HUF 73904101
+Compatible Automodellen:
+- BMW X5 (2013-2018) (Locatie: 51.122048, 4.364622)
+- BMW X3 (2013-2018) (Locatie: 51.122048, 4.364622)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.12287, 4.366619)
+- Kia Sorento (2013-2018) (Locatie: 51.12287, 4.366619)
+
+TPMS Model: HUF 73904101
+Compatible Automodellen:
+- BMW X5 (2013-2018) (Locatie: 51.122824, 4.36927)
+- BMW X3 (2013-2018) (Locatie: 51.122824, 4.36927)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.117285, 4.325123)
+- Kia Sorento (2013-2018) (Locatie: 51.117285, 4.325123)
+
+TPMS Model: HUF 73904101
+Compatible Automodellen:
+- BMW X5 (2013-2018) (Locatie: 51.115836, 4.325144)
+- BMW X3 (2013-2018) (Locatie: 51.115836, 4.325144)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.11593, 4.327957)
+- Kia Sorento (2013-2018) (Locatie: 51.11593, 4.327957)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.116849, 4.327237)
+- Kia Sorento (2013-2018) (Locatie: 51.116849, 4.327237)
+
+TPMS Model: BOSCH F 026 C00 466
+Compatible Automodellen:
+- Volkswagen Golf (2012-2020) (Locatie: 51.115355, 4.329718)
+- Audi A3 (2012-2018) (Locatie: 51.115355, 4.329718)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.114055, 4.330491)
+- Ford Focus (2014-2020) (Locatie: 51.114055, 4.330491)
+
+TPMS Model: HELLA 6PP 358 139-461
+Compatible Automodellen:
+- Fiat 500 (2012-2019) (Locatie: 51.113049, 4.331084)
+- Alfa Romeo Giulia (2015-2020) (Locatie: 51.113049, 4.331084)
+
+TPMS Model: HELLA 6PP 358 139-191
+Compatible Automodellen:
+- Renault Clio (2012-2019) (Locatie: 51.110968, 4.332034)
+- Renault Megane (2012-2019) (Locatie: 51.110968, 4.332034)
+
+TPMS Model: HERTH+BUSS ELPARTS 70699434
+Compatible Automodellen:
+- Opel Astra (2015-2020) (Locatie: 51.110624, 4.333095)
+- Opel Insignia (2015-2020) (Locatie: 51.110624, 4.333095)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.111025, 4.334476)
+- Kia Sorento (2013-2018) (Locatie: 51.111025, 4.334476)
+
+TPMS Model: BOSCH F 026 C00 466
+Compatible Automodellen:
+- Volkswagen Golf (2012-2020) (Locatie: 51.11144, 4.335852)
+- Audi A3 (2012-2018) (Locatie: 51.11144, 4.335852)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.111804, 4.337495)
+- Ford Focus (2014-2020) (Locatie: 51.111804, 4.337495)
+
+TPMS Model: HELLA 6PP 358 139-461
+Compatible Automodellen:
+- Fiat 500 (2012-2019) (Locatie: 51.110893, 4.338729)
+- Alfa Romeo Giulia (2015-2020) (Locatie: 51.110893, 4.338729)
+
+TPMS Model: HELLA 6PP 358 139-191
+Compatible Automodellen:
+- Renault Clio (2012-2019) (Locatie: 51.110278, 4.338998)
+- Renault Megane (2012-2019) (Locatie: 51.110278, 4.338998)
+
+TPMS Model: HERTH+BUSS ELPARTS 70699434
+Compatible Automodellen:
+- Opel Astra (2015-2020) (Locatie: 51.109843, 4.34021)
+- Opel Insignia (2015-2020) (Locatie: 51.109843, 4.34021)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.109061, 4.340543)
+- Kia Sorento (2013-2018) (Locatie: 51.109061, 4.340543)
+
+TPMS Model: BOSCH F 026 C00 466
+Compatible Automodellen:
+- Volkswagen Golf (2012-2020) (Locatie: 51.109007, 4.341281)
+- Audi A3 (2012-2018) (Locatie: 51.109007, 4.341281)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.109703, 4.343549)
+- Ford Focus (2014-2020) (Locatie: 51.109703, 4.343549)
+
+TPMS Model: HELLA 6PP 358 139-191
+Compatible Automodellen:
+- Renault Clio (2012-2019) (Locatie: 51.109953, 4.344777)
+- Renault Megane (2012-2019) (Locatie: 51.109953, 4.344777)
+
+TPMS Model: BOSCH F 026 C00 466
+Compatible Automodellen:
+- Volkswagen Golf (2012-2020) (Locatie: 51.124867, 4.342085)
+- Audi A3 (2012-2018) (Locatie: 51.124867, 4.342085)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.125433, 4.339723)
+- Kia Sorento (2013-2018) (Locatie: 51.125433, 4.339723)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.125487, 4.338177)
+- Ford Focus (2014-2020) (Locatie: 51.125487, 4.338177)
+
+TPMS Model: HELLA 6PP 358 139-461
+Compatible Automodellen:
+- Fiat 500 (2012-2019) (Locatie: 51.125617, 4.336721)
+- Alfa Romeo Giulia (2015-2020) (Locatie: 51.125617, 4.336721)
+
+TPMS Model: HERTH+BUSS ELPARTS 70699434
+Compatible Automodellen:
+- Opel Astra (2015-2020) (Locatie: 51.1252, 4.335218)
+- Opel Insignia (2015-2020) (Locatie: 51.1252, 4.335218)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.124661, 4.335261)
+- Kia Sorento (2013-2018) (Locatie: 51.124661, 4.335261)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.124271, 4.335282)
+- Ford Focus (2014-2020) (Locatie: 51.124271, 4.335282)
+
+TPMS Model: HELLA 6PP 358 139-461
+Compatible Automodellen:
+- Fiat 500 (2012-2019) (Locatie: 51.120725, 4.334861)
+- Alfa Romeo Giulia (2015-2020) (Locatie: 51.120725, 4.334861)
+
+TPMS Model: VDO S180211011Z
+Compatible Automodellen:
+- Hyundai Santa Fe (2013-2018) (Locatie: 51.124118, 4.374498)
+- Kia Sorento (2013-2018) (Locatie: 51.124118, 4.374498)
+
+TPMS Model: RIDEX 2232W0026
+Compatible Automodellen:
+- Ford Fiesta (2014-2020) (Locatie: 51.123957, 4.370547)
+- Ford Focus (2014-2020) (Locatie: 51.123957, 4.370547)
+
+TPMS Model: HELLA 6PP 358 139-191
+Compatible Automodellen:
+- Renault Clio (2012-2019) (Locatie: 51.122395, 4.374155)
+- Renault Megane (2012-2019) (Locatie: 51.122395, 4.374155)
+
+Aantal voorkomens per automodel:
+Volkswagen Golf (2012-2020): 6 keer
+Audi A3 (2012-2018): 6 keer
+Ford Fiesta (2014-2020): 7 keer
+Ford Focus (2014-2020): 7 keer
+Hyundai Santa Fe (2013-2018): 17 keer
+Kia Sorento (2013-2018): 17 keer
+Mercedes-Benz C-Class (2014-2020): 3 keer
+Mercedes-Benz E-Class (2014-2020): 3 keer
+Toyota Camry (2012-2017): 3 keer
+Toyota Corolla (2012-2017): 3 keer
+Volkswagen Passat (2012-2018): 1 keer
+Audi A4 (2012-2018): 1 keer
+Honda Accord (2013-2017): 3 keer
+Honda Civic (2013-2017): 3 keer
+Nissan Altima (2012-2018): 2 keer
+Nissan Maxima (2012-2018): 2 keer
+BMW X5 (2013-2018): 6 keer
+BMW X3 (2013-2018): 6 keer
+Volvo XC90 (2015-2020): 2 keer
+Volvo XC60 (2015-2020): 2 keer
+BMW 3 Series (2012-2019): 3 keer
+BMW 5 Series (2012-2019): 3 keer
+Fiat 500 (2012-2019): 4 keer
+Alfa Romeo Giulia (2015-2020): 4 keer
+Renault Clio (2012-2019): 4 keer
+Renault Megane (2012-2019): 4 keer
+Opel Astra (2015-2020): 3 keer
+Opel Insignia (2015-2020): 3 keer

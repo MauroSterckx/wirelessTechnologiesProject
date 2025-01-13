@@ -1,37 +1,56 @@
 import requests
 
-# Sensor-naar-auto mapping
-sensor_to_cars = {
-    "Hamaton EU-Pro Hybrid 3.5 Bar": ["Audi A3 (2014-2020)", "Volkswagen Golf VII (2013-2020)"],
-    "Schrader EZ-sensor 33500": ["Ford Focus (2015-2021)", "BMW 3 Serie (F30, 2012-2019)"],
-    "Pacific TPMS Sensor": ["Toyota Prius (2010-2015)", "Lexus RX (2012-2015)"],
-    "VDO Redi-Sensor SE10001HP": ["Mercedes-Benz C-Klasse (2015-2020)", "BMW X5 (2013-2018)"],
-    "Continental VDO TG1C": ["Volkswagen Passat (2015-2021)", "Audi Q5 (2017-2021)"]
+# Lijst van TPMS sensoren en hun compatibele automodellen
+tpms_to_models = {
+    "BOSCH F 026 C00 466": ["Volkswagen Golf (2012-2020)", "Audi A3 (2012-2018)"],
+    "RIDEX 2232W0026": ["Ford Fiesta (2014-2020)", "Ford Focus (2014-2020)"],
+    "RIDEX 2232W0102": ["BMW 3 Series (2012-2019)", "BMW 5 Series (2012-2019)"],
+    "VDO S180211011Z": ["Hyundai Santa Fe (2013-2018)", "Kia Sorento (2013-2018)"],
+    "Hamaton HTS-A69BM-S016": ["Mercedes-Benz C-Class (2014-2020)", "Mercedes-Benz E-Class (2014-2020)"],
+    "SCHRADER 1210": ["Toyota Camry (2012-2017)", "Toyota Corolla (2012-2017)"],
+    "SCHRADER 2200B-GO1": ["Honda Accord (2013-2017)", "Honda Civic (2013-2017)"],
+    "SCHRADER 3049": ["Nissan Altima (2012-2018)", "Nissan Maxima (2012-2018)"],
+    "PIERBURG 7.14060.13.0": ["Volkswagen Passat (2012-2018)", "Audi A4 (2012-2018)"],
+    "HUF 73904101": ["BMW X5 (2013-2018)", "BMW X3 (2013-2018)"],
+    "SKF VKRA 110039": ["Volvo XC90 (2015-2020)", "Volvo XC60 (2015-2020)"],
+    "HUF 73907410": ["Porsche Cayenne (2011-2017)", "Porsche Panamera (2011-2017)"],
+    "HELLA 6PP 358 139-461": ["Fiat 500 (2012-2019)", "Alfa Romeo Giulia (2015-2020)"],
+    "HELLA 6PP 358 139-191": ["Renault Clio (2012-2019)", "Renault Megane (2012-2019)"],
+    "HERTH+BUSS ELPARTS 70699434": ["Opel Astra (2015-2020)", "Opel Insignia (2015-2020)"]
 }
 
-def fetch_sensor_data():
-    url = "https://wireless.maurosterckx.be/api/markers"
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-        return response.json()
-    except requests.RequestException as e:
-        print(f"Error fetching data: {e}")
-        return None
+# Haal de data op via de API
+url = 'https://wireless.maurosterckx.be/api/markers'
+response = requests.get(url)
+data = response.json()
 
-def match_sensors_to_cars(sensor_data):
-    if not sensor_data:
-        print("No data to process.")
-        return
+# Open een bestand om de resultaten weg te schrijven
+with open("tpms_results.txt", "w") as file:
+    # Maak een dictionary om het aantal voorkomen van elk automodel bij te houden
+    model_count = {}
 
-    for marker in sensor_data.get('data', []):
-        sensor_model = marker.get('tpms_data', {}).get('model', 'Onbekend')
-        matched_cars = sensor_to_cars.get(sensor_model, ["Onbekend model"])
-        print(f"Sensor ID: {marker.get('tpms_data', {}).get('id', 'Onbekend')} => Compatibele auto's: {', '.join(matched_cars)}")
+    # Koppel TPMS sensoren aan automodellen en schrijf de resultaten naar het bestand
+    for marker in data:
+        tpms_model = marker['tpms_data']['model']
+        latitude = marker['lat']
+        longitude = marker['lng']
+        
+        if tpms_model in tpms_to_models:
+            file.write(f"TPMS Model: {tpms_model}\n")
+            file.write("Compatible Automodellen:\n")
+            
+            for model in tpms_to_models[tpms_model]:
+                file.write(f"- {model} (Locatie: {latitude}, {longitude})\n")
+                if model in model_count:
+                    model_count[model] += 1
+                else:
+                    model_count[model] = 1
+                    
+            file.write("\n")
 
-def main():
-    data = fetch_sensor_data()
-    match_sensors_to_cars(data)
+    # Schrijf het aantal voorkomen van elk automodel naar het bestand
+    file.write("Aantal voorkomens per automodel:\n")
+    for model, count in model_count.items():
+        file.write(f"{model}: {count} keer\n")
 
-if __name__ == "__main__":
-    main()
+print("De resultaten zijn weggeschreven naar 'tpms_results.txt'.")
